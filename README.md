@@ -4,6 +4,33 @@
 
 ![alt text](image-1.png)
 
+## 코드 리뷰 방법
+
+<details>
+  <summary>더보기</summary>
+
+![alt text](image.png)
+
+1. 들어간다
+
+![alt text](image-2.png)
+
+2. 커밋 버튼을 누른다
+
+![alt text](image-3.png)
+
+3. 리뷰할 커밋에 들어간다
+
+![alt text](image-4.png)
+
+4. 리뷰 혹은 궁금한 부분에 + 버튼을 눌러서 comment를 남긴다.
+
+![alt text](image-5.png)
+
+5. 메인으로 돌아오면 위와 같이 생성된 것을 볼 수 있다.
+
+</details>
+
 ## 각자 하고싶은말
 
 - 김현지 :
