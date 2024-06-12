@@ -54,25 +54,37 @@
 <details markdown="1">
   <summary>2024-06-11</summary>
 
-| 문제                                                | 김현지                                  | 김동현 |
-| --------------------------------------------------- | --------------------------------------- | ------ |
-| [알람 시계](https://www.acmicpc.net/problem/2884)   | [문제풀이](./MyeonJi/20240611/2884.py)  | C1     |
-| [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [문제풀이](./MyeonJi/20240611/2439.py)  | C2     |
-| [최댓값](https://www.acmicpc.net/problem/2562)      | [문제풀이](./MyeonJi/20240611/2562.py)  | C3     |
-| [공 넣기](https://www.acmicpc.net/problem/10810)    | [문제풀이](./MyeonJi/20240611/10810.py) | C2     |
-| [단어의 개수](https://www.acmicpc.net/problem/1152) | [문제풀이](./MyeonJi/20240611/1152.py)  | C3     |
+| 문제                                                | 김현지                                     | 김동현                                                  |
+| --------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------- |
+| [알람 시계](https://www.acmicpc.net/problem/2884)   | [문제풀이](./MyeonJi/24.06/06.11/2884.py)  | [문제풀이](./CHiCO/24.06/06.11/BOJ_2884_AlarmClock.py)  |
+| [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [문제풀이](./MyeonJi/24.06/06.11/2439.py)  | [문제풀이](./CHiCO/24.06/06.11/BOJ_2439_StarJJickgi.py) |
+| [최댓값](https://www.acmicpc.net/problem/2562)      | [문제풀이](./MyeonJi/24.06/06.11/2562.py)  | [문제풀이](./CHiCO/24.06/06.11/BOJ_2562_MaxVal.py)      |
+| [공 넣기](https://www.acmicpc.net/problem/10810)    | [문제풀이](./MyeonJi/24.06/06.11/10810.py) | [문제풀이](./CHiCO/24.06/06.11/BOJ_10810_BallPut.py)    |
+| [단어의 개수](https://www.acmicpc.net/problem/1152) | [문제풀이](./MyeonJi/24.06/06.11/1152.py)  | [문제풀이](./CHiCO/24.06/06.11/BOJ_1152_HowMuchWord.py) |
 
 </details>
 
 <details markdown="2">
   <summary>2024-06-12</summary>
 
-| 문제                                                      | 김현지 | 김동현 |
-| --------------------------------------------------------- | ------ | ------ |
-| [상수](https://www.acmicpc.net/problem/2908)              | -      | C1     |
-| [그대로 출력하기2](https://www.acmicpc.net/problem/11718) | -      | C2     |
-| [바구니 뒤집기](https://www.acmicpc.net/problem/10811)    | -      | C3     |
-| [블랙잭](https://www.acmicpc.net/problem/2798)            | -      | C2     |
-| [커트 라인](https://www.acmicpc.net/problem/25305)        | -      | C3     |
+| 문제                                                      | 김현지                                     | 김동현                                                     |
+| --------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- |
+| [상수](https://www.acmicpc.net/problem/2908)              | [문제풀이](./MyeonJi/24.06/06.12/2908.py)  | [문제풀이](./CHiCO/24.06/06.12/BOJ_2908_sangsu.py)         |
+| [그대로 출력하기2](https://www.acmicpc.net/problem/11718) | [문제풀이](./MyeonJi/24.06/06.12/11718.py) | [문제풀이](./CHiCO/24.06/06.12/BOJ_11718_gudaeroPrint.py)  |
+| [바구니 뒤집기](https://www.acmicpc.net/problem/10811)    | [문제풀이](./MyeonJi/24.06/06.12/10811.py) | [문제풀이](./CHiCO/24.06/06.12/BOJ_10811_ReverseBasket.py) |
+| [블랙잭](https://www.acmicpc.net/problem/2798)            | [문제풀이](./MyeonJi/24.06/06.12/2798.py)  | [문제풀이](./CHiCO/24.06/06.12/BOJ_2798_BlackJack.py)      |
+| [커트 라인](https://www.acmicpc.net/problem/25305)        | [문제풀이](./MyeonJi/24.06/06.12/25305.py) | [문제풀이](./CHiCO/24.06/06.12/BOJ_25305_CutLine.py)       |
+
+</details>
+<details markdown="3">
+  <summary>2024-06-13</summary>
+
+| 문제                                                           | 김현지 | 김동현 |
+| -------------------------------------------------------------- | ------ | ------ |
+| [다이얼](https://www.acmicpc.net/problem/5622)                 | -      | -      |
+| [수 정렬하기 3](https://www.acmicpc.net/problem/10989)         | -      | -      |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | -      | -      |
+| [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)       | -      | -      |
+| [단어 공부](https://www.acmicpc.net/problem/1157)              | -      | -      |
 
 </details>
