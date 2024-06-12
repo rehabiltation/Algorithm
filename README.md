@@ -76,3 +76,15 @@
 | [커트 라인](https://www.acmicpc.net/problem/25305)        | -      | C3     |
 
 </details>
+<details markdown="3">
+  <summary>2024-06-13</summary>
+
+| 문제                                                           | 김현지 | 김동현 |
+| -------------------------------------------------------------- | ------ | ------ |
+| [다이얼](https://www.acmicpc.net/problem/5622)                 | -      | C1     |
+| [수 정렬하기 3](https://www.acmicpc.net/problem/10989)         | -      | C2     |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | -      | C3     |
+| [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)       | -      | C2     |
+| [단어 공부](https://www.acmicpc.net/problem/1157)              | -      | C3     |
+
+</details>
