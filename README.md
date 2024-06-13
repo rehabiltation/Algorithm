@@ -88,3 +88,16 @@
 | [단어 공부](https://www.acmicpc.net/problem/1157)              | -      | -      |
 
 </details>
+
+<details markdown="3">
+  <summary>2024-06-14</summary>
+
+| 문제                                                      | 김현지 | 김동현 |
+| --------------------------------------------------------- | ------ | ------ |
+| [버그왕](https://www.acmicpc.net/problem/3447)            | -      | -      |
+| [막대기](https://www.acmicpc.net/problem/17608)           | -      | -      |
+| [소인수분해](https://www.acmicpc.net/problem/11653)       | -      | -      |
+| [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | -      | -      |
+| [캠핑](https://www.acmicpc.net/problem/4796)              | -      | -      |
+
+</details>
