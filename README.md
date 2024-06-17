@@ -79,25 +79,51 @@
 <details markdown="3">
   <summary>2024-06-13</summary>
 
-| 문제                                                           | 김현지 | 김동현 |
-| -------------------------------------------------------------- | ------ | ------ |
-| [다이얼](https://www.acmicpc.net/problem/5622)                 | -      | -      |
-| [수 정렬하기 3](https://www.acmicpc.net/problem/10989)         | -      | -      |
-| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | -      | -      |
-| [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)       | -      | -      |
-| [단어 공부](https://www.acmicpc.net/problem/1157)              | -      | -      |
+| 문제                                                           | 김현지                                     | 김동현                                                     |
+| -------------------------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------- |
+| [다이얼](https://www.acmicpc.net/problem/5622)                 | [문제풀이](./MyeonJi/24.06/06.13/5622.py)  | [문제풀이](./CHiCO/24.06/06.13/BOJ_5622_Dial.py)           |
+| [수 정렬하기 3](https://www.acmicpc.net/problem/10989)         | [문제풀이](./MyeonJi/24.06/06.13/10989.py) | [문제풀이](./CHiCO/24.06/06.13/BOJ_10989_NumSort3.py)      |
+| [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [문제풀이](./MyeonJi/24.06/06.13/2869.py)  | [문제풀이](./CHiCO/24.06/06.13/BOJ_2869_SnailWantsGoUp.py) |
+| [세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)       | [문제풀이](./MyeonJi/24.06/06.13/2720.py)  | [문제풀이](./CHiCO/24.06/06.13/BOJ_2720_STXOwnerDH.py)     |
+| [단어 공부](https://www.acmicpc.net/problem/1157)              | [문제풀이](./MyeonJi/24.06/06.13/1157.py)  | [문제풀이](./CHiCO/24.06/06.13/BOJ_1157_VocaStudy.py)      |
 
 </details>
 
-<details markdown="3">
+<details markdown="4">
   <summary>2024-06-14</summary>
 
-| 문제                                                      | 김현지 | 김동현 |
-| --------------------------------------------------------- | ------ | ------ |
-| [버그왕](https://www.acmicpc.net/problem/3447)            | -      | -      |
-| [막대기](https://www.acmicpc.net/problem/17608)           | -      | -      |
-| [소인수분해](https://www.acmicpc.net/problem/11653)       | -      | -      |
-| [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | -      | -      |
-| [캠핑](https://www.acmicpc.net/problem/4796)              | -      | -      |
+| 문제                                                      | 김현지                                     | 김동현                                                          |
+| --------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------- |
+| [버그왕](https://www.acmicpc.net/problem/3447)            | [문제풀이](./MyeonJi/24.06/06.14/3447.py)  | [문제풀이](./CHiCO/24.06/06.14/BOJ_3447_BugKing.py)             |
+| [막대기](https://www.acmicpc.net/problem/17608)           | [문제풀이](./MyeonJi/24.06/06.14/17608.py) | [문제풀이](./CHiCO/24.06/06.14/BOJ_17608_Stick.py)              |
+| [소인수분해](https://www.acmicpc.net/problem/11653)       | [문제풀이](./MyeonJi/24.06/06.14/11653.py) | [문제풀이](./CHiCO/24.06/06.14/BOJ_11653_PrimeFactorization.py) |
+| [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [문제풀이](./MyeonJi/24.06/06.14/2775.py)  | [문제풀이](./CHiCO/24.06/06.14/BOJ_2775_WannaBeBNHJ.py)         |
+| [캠핑](https://www.acmicpc.net/problem/4796)              | [문제풀이](./MyeonJi/24.06/06.14/4796.py)  | [문제풀이](./CHiCO/24.06/06.14/BOJ_4796_Camping.py)             |
+
+</details>
+
+<details markdown="5">
+  <summary>2024-06-15</summary>
+
+| 문제                                                     | 김현지                                     | 김동현                                                   |
+| -------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------- |
+| [TV 크기](https://www.acmicpc.net/problem/1297)          | [문제풀이](./MyeonJi/24.06/06.15/1297.py)  | [문제풀이](./CHiCO/24.06/06.15/BOJ_1297_TVSize.py)       |
+| [슈퍼 마리오](https://www.acmicpc.net/problem/2851)      | [문제풀이](./MyeonJi/24.06/06.15/2851.py)  | [문제풀이](./CHiCO/24.06/06.15/BOJ_2851_SuperMario.py)   |
+| [단어순서 뒤집기](https://www.acmicpc.net/problem/12605) | [문제풀이](./MyeonJi/24.06/06.15/12605.py) | [문제풀이](./CHiCO/24.06/06.15/BOJ_12605_ReverseWord.py) |
+| [카드 역배치](https://www.acmicpc.net/problem/10804)     | [문제풀이](./MyeonJi/24.06/06.15/10804.py) | [문제풀이](./CHiCO/24.06/06.15/BOJ_10804_CardReverse.py) |
+| [팰린드롬수](https://www.acmicpc.net/problem/1259)       | [문제풀이](./MyeonJi/24.06/06.15/1259.py)  | [문제풀이](./CHiCO/24.06/06.15/BOJ_1259_Palindrome.py)   |
+
+</details>
+
+<details markdown="6">
+  <summary>2024-06-17</summary>
+
+| 문제                                                  | 김현지        | 김동현        |
+| ----------------------------------------------------- | ------------- | ------------- |
+| [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [문제풀이](#) | [문제풀이](#) |
+| [초콜릿 자르기](https://www.acmicpc.net/problem/2163) | [문제풀이](#) | [문제풀이](#) |
+| [완전제곱수](https://www.acmicpc.net/problem/1977)    | [문제풀이](#) | [문제풀이](#) |
+| [소수 단어](https://www.acmicpc.net/problem/2153)     | [문제풀이](#) | [문제풀이](#) |
+| [약수들의 합](https://www.acmicpc.net/problem/9506)   | [문제풀이](#) | [문제풀이](#) |
 
 </details>
