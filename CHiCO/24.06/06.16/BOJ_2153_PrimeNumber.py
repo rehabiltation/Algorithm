@@ -16,3 +16,24 @@
 
 # 아래의 예제와 같은 형식으로 출력을 한다. 소수 단어인 경우에는 It is a prime word.를, 아닌 경우에는 It is not a prime word.를 출력한다.
 
+# 정답
+
+N = input()
+
+sum_num = 0
+for i in range(len(N)) :
+    if ord(N[i]) >= 97 :
+        sum_num += int(ord(N[i]) - 96)
+    else :
+        sum_num += int(ord(N[i]) - 38)
+
+flag = 0
+for i in range(2, int(sum_num**0.5) + 1) :
+    if sum_num % i == 0 :
+        flag = 1
+        break
+
+if flag == 0 :
+    print("It is a prime word.")
+else :
+    print("It is not a prime word.")
