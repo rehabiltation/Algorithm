@@ -155,12 +155,27 @@
 </details>
 
 <details markdown="9">
-  <summary>2024-06-19</summary>
+  <summary>2024-06-20</summary>
 
 | 문제                                                       | 김현지        | 김동현        | 최근영        |
 | ---------------------------------------------------------- | ------------- | ------------- | ------------- |
 | [수 찾기](https://www.acmicpc.net/problem/1920)            | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
 | [큰 수 구성하기](https://www.acmicpc.net/problem/18511)    | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
 | [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652) | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
+
+</details>
+
+<details markdown="10">
+  <summary>2024-06-21</summary>
+
+https://www.acmicpc.net/problem/11866
+https://www.acmicpc.net/problem/11399
+https://www.acmicpc.net/problem/3273
+
+| 문제                                                     | 김현지        | 김동현        | 최근영        |
+| -------------------------------------------------------- | ------------- | ------------- | ------------- |
+| [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
+| [ATM](https://www.acmicpc.net/problem/11399)             | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
+| [두 수의 합](https://www.acmicpc.net/problem/3273)       | [문제풀이](#) | [문제풀이](#) | [문제풀이](#) |
 
 </details>
