@@ -19,24 +19,30 @@ N보다 작거나 같은 자연수 중에서, 집합 K의 원소로만 구성된
 
 # 첫째 줄에 N보다 작거나 같은 자연수 중에서, K의 원소로만 구성된 가장 큰 수를 출력한다.
 
-# 모르겠어요 알려주세요
+# 정답
 
 N ,K = input().split()
 K_list = list(map(int, input().split()))
-
 K_list.sort(reverse=True)
 ans_list = []
 for num in N:
     num = int(num)
+    print(num)
     flag = 0
     for i in K_list:
-        if i <= num:
+        if i <= num: # 클 때 안해줌 클때도 해줘야함
             if i == num:
                 flag = 1
             if not flag:
                 ans_list.append(str(i))
             else:
-                ans_list.append(str(K_list[0]))
+                if i <= num:
+                    ans_list.append(str(K_list[0]))
+                    print('ji')
+                else:
+                    ans_list.pop()
+                    ans_list = str(K_list[0])*(len(N)-1)
+                    print*('cje')
             break
 print(''.join(ans_list))
 
